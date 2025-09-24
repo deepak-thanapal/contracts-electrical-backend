@@ -1,0 +1,42 @@
+{
+    "title": "Varadharaja theatre",
+    "location": "Chennai",
+    "supervisors": [
+        "9629991658"
+    ],
+    "projectCode": "001",
+    "description": "Electrical contract for theatre in chennai",
+    "totalLabourCost": "19500.00",
+    "averageLabourCost": "1000",
+    "numberOfSupervisors": "1",
+    "numberOfLabours": null,
+    "totalCTC": "424500.00",
+    "sections": [
+        {
+            "id": "rising-main",
+            "name": "Rising Main",
+            "items": [
+                {
+                    "id": "vbj3wfs5t",
+                    "itemCode": "1.1.1",
+                    "itemDescription": "630 Amp, 50 KA ,4P, Aluminium (IP54) ",
+                    "qty": "3",
+                    "supply": "135000",
+                    "itc": "6500",
+                    "amount": "424500.00"
+                }
+            ]
+        }
+    ],
+    "totals": {
+        "totalAmount": 424500,
+        "totalQty": 3,
+        "totalSupply": 405000,
+        "totalITC": 19500
+    },
+    "createdate": "2025-09-21T18:55:20.849354",
+    "lastModified": "2025-09-21T20:28:19.141538",
+    "status": "active",
+    "completedCost": 0,
+    "progressUpdates": []
+}
