@@ -14,9 +14,8 @@ app = FastAPI()
 # CORS
 # ---------------------
 origins = [
-    "http://localhost:3000",
-    "http://127.0.0.1:3000",
-    "https://myapp.com",  # replace with your frontend domain
+    "https://contracts-electrical.azurewebsites.net",
+    "http://localhost:8080"  # replace with your frontend domain
 ]
 
 app.add_middleware(
